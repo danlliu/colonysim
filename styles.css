@@ -1,0 +1,12 @@
+:root {
+    /* https://coolors.co/0d1821-227c9d-978897-f0f4ef-3c887e */
+    --rich-black-fogra-29: hsla(207, 61%, 13%, 1);
+    --cg-blue: hsla(196, 78%, 62%, 1);
+    --heliotrope-gray: hsla(300, 10%, 59%, 1);
+    --baby-powder: hsla(108, 2%, 96%, 1);
+    --celadon-green: hsla(172, 56%, 53%, 1);
+}
+
+.list-group-item {
+    background-color: darkgrey;
+}
